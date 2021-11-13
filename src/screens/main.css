@@ -1,0 +1,28 @@
+.main {
+    background-image: url('../image/bg-image-1.jpg');
+}
+
+.home {
+    background-image: url('../image/bg-image.jpeg');
+    background-size: cover;
+
+}
+.cust-reg{
+    background-image: url('../image/biryani.jpg');
+    background-size: cover;
+}
+.rest-reg{
+    background-image: url('../image/burger.jpg');
+    background-size: cover;
+
+}
+.add-dish{
+    
+    background-image: url('../image/dish-img-5.jpg');
+    background-size: cover;
+}
+
+.box {
+    background-color: #fff;
+}
+
